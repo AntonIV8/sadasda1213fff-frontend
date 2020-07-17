@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-sadasda1213fff-animal-e",
+  "editForm": "i-i-s-sadasda1213fff-animal-e",
+  "external": false,
+  "caption": "Animal",
+  "name": "IISsadasda1213fffAnimalL",
+  "className": "AnimalL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-sadasda1213fff-animal",
+      "modelProjection": "AnimalL"
+    }
+  ]
+}

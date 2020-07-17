@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Dog",
+  "name": "IISsadasda1213fffDogE",
+  "className": "DogE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-sadasda1213fff-dog",
+      "modelProjection": "DogE"
+    }
+  ]
+}
